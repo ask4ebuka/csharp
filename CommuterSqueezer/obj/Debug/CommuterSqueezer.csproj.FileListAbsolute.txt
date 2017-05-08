@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2015\Projects\CommuterSqueezer\CommuterSqueezer\bin\Debug\CommuterSqueezer.exe.config
+c:\users\home\documents\visual studio 2015\Projects\CommuterSqueezer\CommuterSqueezer\bin\Debug\CommuterSqueezer.exe
+c:\users\home\documents\visual studio 2015\Projects\CommuterSqueezer\CommuterSqueezer\bin\Debug\CommuterSqueezer.pdb
+c:\users\home\documents\visual studio 2015\Projects\CommuterSqueezer\CommuterSqueezer\obj\Debug\CommuterSqueezer.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\CommuterSqueezer\CommuterSqueezer\obj\Debug\CommuterSqueezer.exe
+c:\users\home\documents\visual studio 2015\Projects\CommuterSqueezer\CommuterSqueezer\obj\Debug\CommuterSqueezer.pdb
